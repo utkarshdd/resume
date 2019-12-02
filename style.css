@@ -1,0 +1,55 @@
+body {
+			font-weight: bold;
+		}
+		#demo {
+  border-radius: 50%;
+        }
+        .C1{
+        	color: #3C1053FF;
+        }
+        .C2{
+        	color: #D7C49EFF
+        }
+        div.cl1{
+            margin-left: 5vh;
+            float: left;
+            height:167vh;
+            width: 40vh;
+            background-color: #FAD0C9FF;
+        }
+        div.cl2{
+            width: 152vh;
+            background-color: #FBEAEB;
+            height: 15vh;
+            float: left;
+            margin-top: 5vh;
+            border-top-right-radius: 20vh;
+            border-bottom-right-radius: 20vh;
+        }
+        div.cl3{
+            width: 152vh;
+            background-color: #FBEAEB;
+            height: 35vh;
+            float: left;
+            margin-top: 5vh;
+            border-top-right-radius: 20vh;
+            border-bottom-right-radius: 20vh;
+        }
+        div.cl4{
+            width: 152vh;
+            background-color:#FBEAEB;
+            height: 20vh;
+            float: left;
+            margin-top: 5vh;
+            border-top-right-radius: 20vh;
+            border-bottom-right-radius: 20vh;
+        }
+        div.cl5{
+            width: 152vh;
+            background-color:#FBEAEB;
+            height: 26vh;
+            float: left;
+            margin-top: 5vh;
+            border-top-right-radius: 20vh;
+            border-bottom-right-radius: 20vh;
+        }
